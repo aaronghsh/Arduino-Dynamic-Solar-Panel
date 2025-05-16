@@ -1,6 +1,6 @@
 # Arduino-Based Dynamic Solar Panel ☀️
 
-Welcome to the Arduino-Based Dynamic Solar Panel project! This project utilizes an Arduino-based control mechanism to dynamically adjust the orientation of a solar panel to maximize sunlight captured for improved energy efficiency.
+This project utilizes an Arduino-based control mechanism to dynamically adjust the orientation of a solar panel to maximize sunlight captured for improved energy efficiency.
 
 ---
 
